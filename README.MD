@@ -1,14 +1,14 @@
-# gameOS v1.10
+# BinaryHome v1.10
 
-![gameOS Pegasus theme](https://i.imgur.com/J4Jh4rq.jpg)
+![BinaryHome Pegasus theme](https://i.imgur.com/J4Jh4rq.jpg)
 
-## gameOS theme for Pegasus Frontend
+## BinaryHome theme for Pegasus Frontend
 
-The goal of this theme is to create a modern game launcher that can fit in alongside other tvOS-like apps (sometimes called 10 foot user interfaces). gameOS is a theme for [Pegasus Frontend](http://pegasus-frontend.org/).
+The goal of this theme is to create a modern game launcher that can fit in alongside other tvOS-like apps (sometimes called 10 foot user interfaces). BinaryHome is a theme for [Pegasus Frontend](http://pegasus-frontend.org/).
 
 ## Installation
 
-[Download the latest version](https://github.com/PlayingKarrde/gameOS/releases/latest) and extract it in your [Pegasus theme directory](http://pegasus-frontend.org/docs/user-guide/installing-themes/) under a folder called gameOS.
+[Download the latest version](https://github.com/PlayingKarrde/BinaryHome/releases/latest) and extract it in your [Pegasus theme directory](http://pegasus-frontend.org/docs/user-guide/installing-themes/) under a folder called BinaryHome.
 
 Windows users may need to install the [K-lite Codec Pack](https://www.codecguide.com/download_kl.htm) to get video playback working.
 
