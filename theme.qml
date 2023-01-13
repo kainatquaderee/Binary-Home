@@ -186,9 +186,9 @@ id: root
     // Theme settings
     property var theme: {
         return {
-            main:           "#1d253d",
-            secondary:      "#202a44",
-            accent:         "#f00980",
+            main:           "#010007",
+            secondary:      "#27027b",
+            accent:         "#585baf",
             highlight:      "#f00980",
             text:           "#ececec",
             button:         "#f00980",
